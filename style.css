@@ -1,0 +1,25 @@
+*{
+    font-family: poppins;
+}
+
+#first{
+    border:black; 
+    border-width:2px; 
+    border-style:solid;
+    margin-top: 47px;
+    margin-left: 38px;
+    margin-right: 47px;
+}
+.container{
+    margin-left: 58px;
+    font-size: 40px;
+}
+.para{
+   font-size: 40px;
+   margin-top: 47;
+   margin-left: 51px;
+   margin-right: 51px;
+   margin-bottom: 47px;
+}
+
+
